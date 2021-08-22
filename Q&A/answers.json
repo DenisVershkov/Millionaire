@@ -1,0 +1,76 @@
+[
+  {"text": "соль", "isCorrect": true},
+  {"text": "сахар", "isCorrect": false},
+  {"text": "перец", "isCorrect": false},
+  {"text": "стрептоцид", "isCorrect": false},
+  
+  {"text": "шнурки", "isCorrect": false},
+  {"text": "бант", "isCorrect": false},
+  {"text": "узел", "isCorrect": true},
+  {"text": "беседу", "isCorrect": false},
+
+  {"text": "Человек с ружьём", "isCorrect": true},
+  {"text": "Человек-невидимка", "isCorrect": false},
+  {"text": "Человек-амфибия", "isCorrect": false},
+  {"text": "По кличке зверь", "isCorrect": false},
+
+  {"text": "коллегия", "isCorrect": true},
+  {"text": "ассоциация", "isCorrect": false},
+  {"text": "альянс", "isCorrect": false},
+  {"text": "союз", "isCorrect": false},
+
+  {"text": "цитадель", "isCorrect": false},
+  {"text": "крепость", "isCorrect": true},
+  {"text": "замок", "isCorrect": false},
+  {"text": "блиндаж", "isCorrect": false},
+
+  {"text": "грог", "isCorrect": false},
+  {"text": "пунш", "isCorrect": false},
+  {"text": "крюшон", "isCorrect": true},
+  {"text": "глинтвейн", "isCorrect": false},
+
+  {"text": "бурнус", "isCorrect": false},
+  {"text": "бурка", "isCorrect": true},
+  {"text": "бушлат", "isCorrect": false},
+  {"text": "башлык", "isCorrect": false},
+
+  {"text": "стекло", "isCorrect": false},
+  {"text": "глина", "isCorrect": true},
+  {"text": "гипс", "isCorrect": false},
+  {"text": "пластик", "isCorrect": false},
+
+  {"text": "волынка", "isCorrect": false},
+  {"text": "валторна", "isCorrect": true},
+  {"text": "орган", "isCorrect": false},
+  {"text": "шарманка", "isCorrect": false},
+
+  {"text": "прерия", "isCorrect": false},
+  {"text": "тундра", "isCorrect": false},
+  {"text": "саванна", "isCorrect": false},
+  {"text": "пампасы", "isCorrect": true},
+
+  {"text": "волна и камень", "isCorrect": false},
+  {"text": "стихи и проза", "isCorrect": false},
+  {"text": "земля и небо", "isCorrect": true},
+  {"text": "лёд и пламень", "isCorrect": false},
+
+  {"text": "Византийской", "isCorrect": true},
+  {"text": "Римской", "isCorrect": false},
+  {"text": "Османской", "isCorrect": false},
+  {"text": "Китайской", "isCorrect": false},
+
+  {"text": "Уругвай", "isCorrect": true},
+  {"text": "Ямайка", "isCorrect": false},
+  {"text": "Бразилия", "isCorrect": false},
+  {"text": "Аргентина", "isCorrect": false},
+
+  {"text": "Даниель Дефо", "isCorrect": true},
+  {"text": "Джонатан Свифт", "isCorrect": false},
+  {"text": "Генри Филдинг", "isCorrect": false},
+  {"text": "Чарльз Диккенс", "isCorrect": false},
+
+  {"text": "даосизм", "isCorrect": false},
+  {"text": "индуизм", "isCorrect": false},
+  {"text": "иудаизм", "isCorrect": false},
+  {"text": "буддизм", "isCorrect": true}
+]

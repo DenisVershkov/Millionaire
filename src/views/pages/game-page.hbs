@@ -1,0 +1,82 @@
+  <div id="{{this.gameId}}" data-resulId="{{this.resultId}}"class="game-wrapper">
+    <div class="game-header">
+      <div class="game-header-row">
+        <div class="game-header-row left">
+          <img data-name="exit" class="game-header-row exit" src="/img/Lifeline_Walk_Away_US.png" alt="">
+      </div>
+      <div class="game-header-row right">
+        <img data-name="isUsedFiftyFifty" class="game-header-row split" src="/img/Lifeline_50_US.png" alt="">
+        <img data-name="helper" class="game-header-row call" src="/img/Lifeline_Phone_A_Friend_US.png" alt="">
+        <img data-name="isUsedAudienceHelp" class="game-header-row audience" src="/img/Lifeline_Ask_The_Audience_US.png" alt="">
+      </div>
+      </div>
+    </div>
+    <div class="game-score-container">
+    <div class="game-score">
+      <ul class="game-score-questions">
+        <li id="question-3000000">15</li>
+        <li id="question-1500000">14</li>
+        <li id="question-800000">13</li>
+        <li id="question-400000">12</li>
+        <li id="question-200000">11</li>
+        <li id="question-100000">10</li>
+        <li id="question-50000">9</li>
+        <li id="question-25000">8</li>
+        <li id="question-15000">7</li>
+        <li id="question-10000">6</li>
+        <li id="question-5000">5</li>
+        <li id="question-3000">4</li>
+        <li id="question-2000">3</li>
+        <li id="question-1000">2</li>
+        <li id="question-500">1</li>
+      </ul>
+      <ul class="game-score-money">
+        <li id="money-3000000">3 000 000</li>
+        <li id="money-1500000">1 500 000</li>
+        <li id="money-800000">800 000</li>
+        <li id="money-400000">400 000</li>
+        <li id="money-200000">200 000</li>
+        <li id="money-100000">100 000</li>
+        <li id="money-50000">50 000</li>
+        <li id="money-25000">25 000</li>
+        <li id="money-15000">15 000</li>
+        <li id="money-10000">10 000</li>
+        <li id="money-5000">5 000</li>
+        <li id="money-3000">3 000</li>
+        <li id="money-2000">2 000</li>
+        <li id="money-1000">1 000</li>
+        <li id="money-500">500</li>
+      </ul>
+    </div>
+    <div class="cont">
+    <div class="game-over">Game Over</div>
+    </div>
+    </div>
+    <div class="quest-and-ans">
+      <div class="quest-and-ans-col">
+        <div class="quest-and-ans questions-container">
+          <div id="{{this.questionId}}" class="quest-and-ans questions">
+          <p class="quest-and-ans question-text">{{this.questionText}}</p>
+        </div>
+        </div>
+        <div class="quest-and-ans answers-container">
+          <div class="quest-and-ans answers-row">
+            <div id="{{this.answerId1}}" data-name="answer1" data-atr="answer" class="quest-and-ans answer">
+              <span data-id="{{this.answerId1}}" class="quest-and-ans answer-text">A: {{this.answer1}}</span>
+            </div>
+            <div id="{{this.answerId2}}" data-name="answer2" data-atr="answer" class="quest-and-ans answer">
+              <span data-id="{{this.answerId2}}" class="quest-and-ans answer-text">B: {{this.answer2}}</span>
+            </div>
+          </div>
+          <div class="quest-and-ans answers-row">
+            <div id="{{this.answerId3}}" data-name="answer3" data-atr="answer" class="quest-and-ans answer">
+              <span data-id="{{this.answerId3}}"  class="quest-and-ans answer-text">C: {{this.answer3}}</span>
+            </div>
+            <div  id="{{this.answerId4}}" data-name="answer4" data-atr="answer" class="quest-and-ans answer">
+              <span data-id="{{this.answerId4}}" class="quest-and-ans answer-text">D: {{this.answer4}}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

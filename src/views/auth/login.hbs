@@ -1,0 +1,26 @@
+<div class="wrapper">
+<div class="container">
+	<div class="header">
+		<h2>Войти в аккаунт</h2>
+	</div>
+  	<div class="login"></div>
+	<form action="/auth/login" method="POST" id="formLogin" class="form">
+		<div class="form-control">
+			<label for="userEmail">Email</label>
+			<input name="userEmail" type="email" placeholder="Email" id="email" />
+			<i class="fas fa-check-circle"></i>
+			<i class="fas fa-exclamation-circle"></i>
+			<small>Error message</small>
+		</div>
+		<div class="form-control">
+			<label for="password">Password</label>
+			<input name="password" type="password" placeholder="Password" id="password"/>
+			<i class="fas fa-check-circle"></i>
+			<i class="fas fa-exclamation-circle"></i>
+			<small>Error message</small>
+		</div>
+		<button type="submit">Войти</button>
+	</form>
+</div>
+</div>
+
